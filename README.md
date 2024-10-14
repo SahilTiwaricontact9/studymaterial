@@ -70,30 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Hello There,
-
-I am looking for a frontend developer role at VectorShift.
-
-A bit about me:
-I am Sahil Tiwari, a final-year student at Gyan Ganga Institute of Technology and Science, Jabalpur, Madhya Pradesh. I have 2 years of experience in the software domain working for 2 startups as a frontend developer. I have worked with Bambhari, Tony LLc foundation as a frontend developer intern.
-
-I am very passionate about software development and working in startups.
-
-I have attached my resume for your reference and consideration. Please take a moment to go through that to get a better picture of how I can provide value to the organization.
-
-I would love to talk to you in more detail regarding this fantastic opportunity at your company. It would give me great pleasure to hear back from you and get interviewed for the above mentioned or similar roles.
-
-Resume: https://docs.google.com/document/d/1D2qG60qChZ6ryo34EOB71NlvjV4zTZWmWpTFbXJmpH0/edit?tab=t.0
-
-Portfolio: https://sahiltportfolio.netlify.app/
-
-Linkedin: https://www.linkedin.com/in/sahil-tiwari-b2269b27a/
-
-GitHub: https://github.com/sahilTiwariiii
-
-WellFound: https://wellfound.com/u/samrat-tiwari-2
-
-Twitter :https://x.com/sahil_tiwa96610
-
-Thanks & Regards
-Sahil
